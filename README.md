@@ -16,22 +16,22 @@ Contrary to popular belief, I love school❤️ that is when exams aren't truing
 also have a thing for some art subjects.
 
 ### What I'm working on
-Well it's pinned, I'm working on Skuul
+Well it's pinned, I'm working on Skuul🏫
 
 ### I’m currently learning
-Im going in depth into the laravel framework 
+Im going in 🛫depth into the laravel framework 
 
 ### I’m looking to collaborate on
-Well anything really, although i'm in search of a job at the moment because i need to save up for university
+Well anything really, although i'm in search of a job at the moment because i need to save up for university🤑🤑
 
 ### I’m looking for help with
-Skuul and a decent job
+Skuul🏫 and a decent job
 
 ### Ask me about
-Anything at all. Starting from why I suck at writing readmes
+Anything at all. Starting from why I suck at writing readmes😢
 
 ### How to reach me
-You can call me or text me at +2349074112860, email me at ifezueyoung@gmail.com. im on whatsapp with that number also
+You can call📞 me or text✉️ me at +2349074112860, email📩 me at ifezueyoung@gmail.com. i'm on whatsapp with that number also
 
 ### Fun fact
-I'm a really bad dancer
+I'm a really bad dancer, and if you gave seen me dance i owe you an apology 
