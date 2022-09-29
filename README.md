@@ -34,4 +34,4 @@ Anything at all. Starting from why I suck at writing readmes😢
 You can call📞 me or text✉️ me at +2349074112860, email📩 me at ifezueyoung@gmail.com. i'm on whatsapp with that number also
 
 ### Fun fact
-I'm a really bad dancer, and if you gave seen me dance i owe you an apology 
+I'm a really bad dancer, and if you have seen me dance i owe you an apology 
