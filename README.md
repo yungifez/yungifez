@@ -22,10 +22,10 @@ Well it's pinned, I'm working on Skuul🏫
 Im going in 🛫depth into the laravel framework 
 
 ### I’m looking to collaborate on
-Well anything really, although i'm in search of a job at the moment because i need to save up for university🤑🤑
+Skuul
 
 ### I’m looking for help with
-Skuul🏫 and a decent job
+Skuul🏫 
 
 ### Ask me about
 Anything at all. Starting from why I suck at writing readmes😢
