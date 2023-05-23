@@ -37,4 +37,4 @@ You can call📞 me or text✉️ me at +2349074112860, email📩 me at ifezueyo
 I'm a really bad dancer, and if you have seen me dance i owe you an apology 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yungifez&count_private=true&show_icons=true&theme=transparent)](https://github.com/yungifez/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungifez&layout=pie)](https://github.com/yungifez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungifez)](https://github.com/yungifez/github-readme-stats)
