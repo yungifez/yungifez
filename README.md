@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Marvellous. I'm at the moment a university admit in Nigeria. 
+I'm Marvellous. I'm at the moment a student at Thompson Rivers University. 
 
 Nope let's do that again.
 
 ### Hello 👋👋 
 
-I'm Marvellous, a developer by heaet❤️💖, creator of the skuul management system🏫. I'm a noobish pianist🎹 and an audio engineer🎵🎧 also.
+I'm Marvellous, a developer by heart❤️💖, creator of the skuul management system🏫. I'm a noobish pianist🎹 and an audio engineer🎵🎧 also.
 
 I love writing🖊 although with video🎥 content nowadays, that hasn't crossed my mind in a while🤷‍♂️. 
 
@@ -31,10 +31,10 @@ Skuul🏫
 Anything at all. Starting from why I suck at writing readmes😢
 
 ### How to reach me
-You can call📞 me or text✉️ me at +2349074112860, email📩 me at ifezueyoung@gmail.com. i'm on whatsapp with that number also
+You can email📩 me at ifezueyoung@gmail.com. i'm on whatsapp with that number also
 
 ### Fun fact
 I'm a really bad dancer, and if you have seen me dance i owe you an apology 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yungifez&count_private=true&show_icons=true&theme=transparent)](https://github.com/yungifez/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungifez&layout=compact&theme=transparent)](https://github.com/yungifez/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yungifez&count_private=true&show_icons=true&theme=transparent)](https://github.com/yungifez/skuul)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungifez&layout=compact&theme=transparent)](https://github.com/yungifez/skuul)
